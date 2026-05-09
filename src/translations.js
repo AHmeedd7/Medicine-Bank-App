@@ -46,7 +46,7 @@ export const translations = {
     loginNow: "Log In Now",
     cancel: "Cancel",
     
-    // Home Page Additions (البانر والإحصائيات)
+    // Home Page Additions
     heroTitle: "Medicine for Everyone",
     heroSubtitle: "Donate your extra medicine or request what you need easily and safely.",
     statsDonors: "Donors",
@@ -113,7 +113,14 @@ export const translations = {
     editProfile: "Edit Profile",
     logoutBtn: "Log Out",
     contributions: "Contributions",
-    activeReqs: "Active Requests"
+    activeReqs: "Active Requests",
+    
+    // إضافات جديدة لصفحة التبرع (لترجمة النصوص الثابتة)
+    addressLabel: "Address",
+    addressPlaceholder: "Your address will appear here",
+    useMyLocation: "Use my current location",
+    pharmacyLabel: "Pharmacy / Charity Name",
+    pharmacyPlaceholder: "Type or select from list"
   },
   ar: {
     dir: 'rtl',
@@ -162,7 +169,7 @@ export const translations = {
     loginNow: "سجل دخولك الآن",
     cancel: "إلغاء",
     
-    // Home Page Additions (البانر والإحصائيات)
+    // Home Page Additions
     heroTitle: "دواؤك حياة لغيرك",
     heroSubtitle: "تبرع بالأدوية الزائدة عن حاجتك أو اطلب ما تحتاجه بكل سهولة وأمان.",
     statsDonors: "متبرع",
@@ -229,6 +236,13 @@ export const translations = {
     editProfile: "تعديل البيانات",
     logoutBtn: "تسجيل الخروج",
     contributions: "مساهمة",
-    activeReqs: "طلب نشط"
+    activeReqs: "طلب نشط",
+    
+    // إضافات جديدة لصفحة التبرع
+    addressLabel: "العنوان",
+    addressPlaceholder: "سيظهر عنوانك هنا",
+    useMyLocation: "استخدم موقعي الحالي",
+    pharmacyLabel: "اسم الصيدلية / الجمعية",
+    pharmacyPlaceholder: "اكتب أو اختر من القائمة"
   }
 };
